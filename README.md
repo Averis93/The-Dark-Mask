@@ -8,7 +8,7 @@
 
 The Dark Mask is intended to be a multiplayer online entertainment different from the standard of nowadays market. The chosen set is a comic-book fair in which guests, dressed as cosplayers, will be transformed into their real counterparts of their costumes. The experience is meant to be very challenging and not relaxing at all, since there will be plenty of menaces which will make the game like a nightmare. Players will be stuck in this fair and even though they will have the powers of their characters, they will have to fight for their freedom again others and again a mysterious mayor.
 
-<img src="https://image.ibb.co/m3EAod/Screenshot_155.png" height="1920" width="1080"> 
+<img src="https://image.ibb.co/m3EAod/Screenshot_155.png" height="250" width="250"> 
 
 The Dark Mask tells the story of a group of people that got transformed by a mysterious mayor with fake promises and tricks, while they were at a comic book convention. Right after this transformation, the mayor’s game begins in which 6 cosplayers (controlled by 6 video gamers) will be divided in 2 groups of 3 and will have to rescue 3 pieces of a mysterious object (a dark mask) which will give them the chance to get back their freedom.
 
