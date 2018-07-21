@@ -1,6 +1,3 @@
-**The Dark Mask**
-===================
-
 ![Logo](https://image.ibb.co/fJqNid/13445558_1702822436645939_6732691753963597765_n.jpg)
 
 <i class="icon-info"></i> :information_source: **Description**
