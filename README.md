@@ -30,6 +30,6 @@ INSERIRE TESTO...
 
 [<i class="icon-provider-github"></i> Technical Design Document](https://github.com/Wemarcus/TheDarkMask/raw/master/Documentation/Technical%20Design%20Document.pdf)
 
-[<i class="icon-provider-github"></i> Executable](https://mega.nz/#!IVsFFaIA!3E4AkO86xAr1fARaoKpeK8PUig8wX--4ovYV6pe3m6U)
+[<i class="icon-provider-github"></i> Executable](https://mega.nz/#!RE1RGZpS!_v3Bj8oqIhRVk0iqgKepV6iyBVdtM-blmJCjhBU81Dk)
 
 -------------
