@@ -8,7 +8,7 @@
 
 The Dark Mask is intended to be a multiplayer online entertainment different from the standard of nowadays market. The chosen set is a comic-book fair in which guests, dressed as cosplayers, will be transformed into their real counterparts of their costumes. The experience is meant to be very challenging and not relaxing at all, since there will be plenty of menaces which will make the game like a nightmare. Players will be stuck in this fair and even though they will have the powers of their characters, they will have to fight for their freedom again others and again a mysterious mayor.
 
-<img src="https://preview.ibb.co/f1auEJ/Screenshot_155.png" alt="Paris" align="middle"> 
+<img src="https://preview.ibb.co/f1auEJ/Screenshot_155.png" align="middle"> 
 
 ![FirstImage](https://preview.ibb.co/f1auEJ/Screenshot_155.png)
 
